@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+	<template id="sh_animated_snippets_assets" inherit_id="website.assets_frontend">
+		<xpath expr="link[last()]" position="after">
+			<link href="/sh_animated_snippets/static/src/scss/animated_snippet.scss" rel="stylesheet" type="text/scss"></link>
+		</xpath>
+
+	</template>
+</odoo>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+   <template id="sh_animated_snippets_2_website_snippets" inherit_id="website.snippets" name="Animated Snippet">
+      <xpath expr="//div[@id='snippet_structure']" position="after">
+         <div id="sh_animated_snippets_2" class="o_panel">
+            <div class="o_panel_header">Animated Snippets 2</div>
+            <div class="o_panel_body">
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_1" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/76-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_2" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/77-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_3" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/78-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_4" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/79-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_5" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/80-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_6" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/81-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_7" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/82-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_8" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/83-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_9" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/84-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_10" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/85-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_11" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/86-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_12" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/87-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_13" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/88-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_14" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/89-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_15" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/90-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_16" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/91-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_17" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/92-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_18" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/93-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_19" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/94-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/95-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_21" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/96-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/97-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_23" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/98-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/99-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/100-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/101-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_27" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/102-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_28" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/103-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_29" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/104-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_30" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/105-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_31" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/106-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_32" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/107-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_33" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/108-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_34" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/109-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/110-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/111-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/112-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_38" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/113-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_39" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/114-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_40" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/115-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_41" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/116-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_42" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/117-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_43" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/118-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_44" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/119-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_45" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/120-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/121-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/122-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_48" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/123-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_49" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/124-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/125-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_51" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/126-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/127-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/128-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_54" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/129-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_55" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/130-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_56" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/131-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/132-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/133-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/134-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_60" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/135-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/136-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_62" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/137-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_63" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/138-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_64" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/139-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/140-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/141-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/142-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/143-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_69" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/144-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_70" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/145-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_71" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/146-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_72" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/147-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_73" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/148-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_74" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/149-01.svg" />
+               <t t-snippet="sh_animated_snippets_2.sh_animated_snippets_2_tmpl_75" t-thumbnail="/sh_animated_snippets_2/static/src/img/blocks/150-01.svg" />
+            </div>
+         </div>
+      </xpath>
+   </template>
+</odoo>

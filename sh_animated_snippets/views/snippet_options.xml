@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+	<template id="sh_animated_snippets_snippet_options" inherit_id="website.snippet_options">
+		<xpath expr="//*[@t-set='so_snippet_addition_selector']" position="inside">, div, .card</xpath>
+		<xpath expr="//div" position="after">
+			<!-- DISABLE HOVER -->
+			<div data-selector="#sh_animated_content_box_30 > .container > .row > .sh_disable_hover_part">
+				<we-button-group string="Disable Hover">
+					<we-button title="Enable Hover" data-select-class="">None</we-button>
+					<we-button title="Disable Hover" data-select-class="sh_disable_hover_cls">
+						<i class="fa fa-ban"/>
+					</we-button>
+				</we-button-group>
+			</div>
+			<!-- DISABLE HOVER -->
+		</xpath>
+	</template>
+</odoo>

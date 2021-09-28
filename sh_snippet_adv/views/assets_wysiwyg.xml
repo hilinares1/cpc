@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_wysiwyg" inherit_id="web_editor.assets_wysiwyg">
+        <xpath expr="." position="inside">
+            <!-- CUSTOM ASSETS -->
+            <link rel="stylesheet" type="text/scss" href="/sh_snippet_adv/static/src/scss/snippets_options.scss" />
+        </xpath>
+    </template>
+</odoo>

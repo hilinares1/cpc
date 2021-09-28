@@ -1,0 +1,1001 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_animated_snippets_2
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-20 06:42+0000\n"
+"PO-Revision-Date: 2020-11-20 06:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35
+msgid "<i class=\"fa fa-plus\">Read More</i>"
+msgstr "<i class=\"fa fa-plus\">Weiterlesen</i>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37
+msgid ""
+"<span class=\"fa fa-plus\"/>\n"
+"                              read More"
+msgstr ""
+"<span class=\"fa fa-plus\"/>\n"
+"                              Weiterlesen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+msgid "<span class=\"sh_number\">01</span>"
+msgstr "<span class=\"sh_number\">01</span>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+msgid "<span class=\"sh_number\">02</span>"
+msgstr "<span class=\"sh_number\">02</span>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+msgid "<span class=\"sh_number\">03</span>"
+msgstr "<span class=\"sh_number\">03</span>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_9
+msgid ""
+"<span>Read More</span>\n"
+"                        <i class=\"fa fa-angle-right\"/>"
+msgstr ""
+"<span>Weiterlesen</span>\n"
+"                        <i class=\"fa fa-angle-right\"/>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_56
+msgid "Accounting"
+msgstr "Buchhaltung"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid "Advanced UI Toolkit"
+msgstr "Erweitertes UI-Toolkit"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_71
+msgid "All-Inclusive Cruises"
+msgstr "All-Inclusive-Kreuzfahrten"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_62
+msgid ""
+"Amour employs the best wedding experts in Los Angeles to help you make your "
+"wedding unforgettable."
+msgstr ""
+"Amour beschäftigt die besten Hochzeitsexperten in Los Angeles, um Ihnen bei der Erstellung Ihrer"
+"Hochzeit unvergesslich."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_website_snippets
+msgid "Animated Snippets 2"
+msgstr "Animierte Schnipsel 2"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50
+msgid ""
+"As a bu siness owner or manager, the decision to opt faor offshore software "
+"can be difficult."
+msgstr ""
+"Als Geschäftsinhaber oder Manager die Entscheidung, sich für Offshore-Software zu entscheiden"
+"kann schwierig sein."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_75
+msgid ""
+"At Effective, we work for our customers every day to deliver the best mobile"
+" applications for any purposes. We work both with individual and corporate "
+"customers."
+msgstr ""
+"Bei Effective arbeiten wir jeden Tag für unsere Kunden, um das beste Handy zu liefern."
+"Anwendungen für jeden Zweck. Wir arbeiten sowohl mit Einzelpersonen als auch mit Unternehmen."
+"Kunden."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61
+msgid ""
+"At our shop, you can purchase different kinds of teaware and accessories for"
+" your tea drinking pleasure."
+msgstr ""
+"In unserem Shop können Sie verschiedene Arten von Teegeschirr und Zubehör für"
+"Ihr Teetrinkvergnügen."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_73
+msgid "Bitcoin Trading"
+msgstr "Bitcoin-Handel"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_55
+msgid "Bookkeeping"
+msgstr "Buchhaltung"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+msgid "Building Information"
+msgstr "Gebäudeinformationen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid "Clean and Crispy Design"
+msgstr "Sauberes und knuspriges Design"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid "Color scheme"
+msgstr "Farbschema"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+msgid "Construction Management"
+msgstr "Bauleitung"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+msgid "Css3"
+msgstr "Css3"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_72
+msgid "Delivery Price"
+msgstr "Lieferpreis"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid ""
+"Detailed documentation with which you will not have any problems using the "
+"our template to"
+msgstr ""
+"Detaillierte Dokumentation, mit der Sie keine Probleme haben werden, die"
+"unsere Vorlage zu"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_website_snippet_options
+msgid "Disable Hover"
+msgstr "Hover deaktivieren"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_39
+msgid ""
+"Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse "
+"molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros"
+" et accumsan et iusto odio."
+msgstr ""
+"Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse"
+"molestie konsequat, vel illum dolore eu feugiat nulla facilisis bei vero eros"
+"et accumsan et iusto odio."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_website_snippet_options
+msgid "Enable Hover"
+msgstr "Hover aktivieren"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+msgid "Financial Planning"
+msgstr "Finanzielle Planung"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_63
+msgid ""
+"Get a simple, doable tweak to your habits, that will make you a healthy, "
+"vibrant version of yourself."
+msgstr ""
+"Nehmen Sie eine einfache, machbare Änderung Ihrer Gewohnheiten vor, die Sie gesund macht."
+"lebendige Version von dir."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26
+msgid "Htm5"
+msgstr "Htm5"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+msgid "Html5"
+msgstr "Html5"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+msgid ""
+"If you are unsure what service you need, feel free to turn to our "
+"consultants for help."
+msgstr ""
+"Wenn Sie sich nicht sicher sind, welchen Service Sie benötigen, wenden Sie sich bitte an unseren"
+"Berater um Hilfe."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_71
+msgid ""
+"If you’re looking for a perfect voyage then the #1 option would be our all-"
+"inclusive cruise."
+msgstr ""
+"Wenn Sie auf der Suche nach einer perfekten Reise sind, ist die beste Option unser All-"
+"Inklusive Kreuzfahrt."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_69
+msgid "Kitchen"
+msgstr "Küche"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid ""
+"LEMON comes with a powerful and flexible extended toolkit in addition to "
+"basic Bootstrap."
+msgstr ""
+"LEMON wird zusätzlich mit einem leistungsstarken und flexiblen erweiterten Toolkit geliefert."
+"Grundlegender Bootstrap."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid ""
+"LEMON offers unique designs created for you by top industry leaders and web "
+"experts."
+msgstr ""
+"LEMON bietet einzigartige Designs, die von führenden Branchenführern und im Internet für Sie erstellt wurden."
+"Experten."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53
+msgid ""
+"Learn More\n"
+"                           <span class=\"fa fa-arrow-circle-o-right\"/>"
+msgstr ""
+"Erfahren Sie mehr\n"
+"                           <span class=\"fa fa-arrow-circle-o-right\"/>"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_64
+msgid "Lorem"
+msgstr "Lorem"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_63
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_31
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_32
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_33
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_38
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_42
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_43
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_44
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_51
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_60
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_63
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_64
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_70
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_71
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_73
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_74
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_75
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_9
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_31
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_32
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_33
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_38
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_42
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_43
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_44
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_51
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_60
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_63
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_64
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_70
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_71
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_73
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_74
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_75
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_9
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit "
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum."
+msgstr ""
+"Lorem ipsum dolor sitzen amet consectetur adipisicing elit. Qui quaerat fugit"
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_19
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit "
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem "
+"natus et veniam perspiciatis."
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit "
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem "
+"natus et veniam perspiciatis."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36
+msgid ""
+"Lorem ipsum dolor sit amet, consecte adipisicing elit. A alias aspernatur "
+"autem blanditiis. Lorem ipsum dolor sit amet."
+msgstr ""
+"Lorem ipsum dolor sit amet, consecte adipisicing elit. A alias aspernatur "
+"autem blanditiis. Lorem ipsum dolor sit amet."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_44
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in volutpat "
+"elit. Class aptent taciti."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in volutpat "
+"elit. Class aptent taciti."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dictum "
+"convallis suscipit. Donec finibus neque at mi volutpat ornare."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dictum "
+"convallis suscipit. Donec finibus neque at mi volutpat ornare."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_7
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in pulvinar"
+" lacus. Aenean efficitur vehicula orci, vel hendrerit orci viverra "
+"hendrerit. Curabitur luctus pharetra bibendum. In semper."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer in pulvinar"
+" lacus. Aenean efficitur vehicula orci, vel hendrerit orci viverra "
+"hendrerit. Curabitur luctus pharetra bibendum. In semper."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_51
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus, velit "
+"nec luctus dictum."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam finibus, velit "
+"nec luctus dictum."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_53
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam luctus dictum."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam luctus dictum."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_11
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at sapien at "
+"erat hendrerit."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at sapien at "
+"erat hendrerit."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_8
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius, "
+"nisl id bibendum imperdiet, lacus neque maximus arcu, ut dignissim."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius, "
+"nisl id bibendum imperdiet, lacus neque maximus arcu, ut dignissim."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_10
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu mauris "
+"libero. Proin finibus vulputate mauris eget venenatis."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu mauris "
+"libero. Proin finibus vulputate mauris eget venenatis."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_14
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eros urna, "
+"dapibus in tellus eu, tempor pretium erat. Etiam ullamcorper lacus quis enim"
+" elementum placerat. Proin mollis id ex vel ullamcorper. Aenean vulputate "
+"nisl nec."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eros urna, "
+"dapibus in tellus eu, tempor pretium erat. Etiam ullamcorper lacus quis enim"
+" elementum placerat. Proin mollis id ex vel ullamcorper. Aenean vulputate "
+"nisl nec."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_9
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus nunc."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus nunc."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_31
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed ligula et "
+"orci congue dignissim sit amet vitae enim. Suspendisse a felis et urna "
+"mattis vestibulum id."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed ligula et "
+"orci congue dignissim sit amet vitae enim. Suspendisse a felis et urna "
+"mattis vestibulum id."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_6
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit Accusantium."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit Accusantium."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_12
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium beatae"
+" consectetur ea eaque facilis hic, impedit ipsa laudantium modi nostrum, "
+"quaerat quod reiciendis sed sunt!"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium beatae"
+" consectetur ea eaque facilis hic, impedit ipsa laudantium modi nostrum, "
+"quaerat quod reiciendis sed sunt!"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_32
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium "
+"consequuntur, deleniti eaque excepturi."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium "
+"consequuntur, deleniti eaque excepturi."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_13
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad culpa "
+"dignissimos distinctio ea eius laborum nesciunt qui quis quisquam quos!"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad culpa "
+"dignissimos distinctio ea eius laborum nesciunt qui quis quisquam quos!"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_42
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi modi iure "
+"quo corrupti rerum laborum, velit."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi modi iure "
+"quo corrupti rerum laborum, velit."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_29
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam blanditiis"
+" debitis, harum minima mollitia sunt totam. Amet cumque deleniti eos "
+"harum,libero quaerat quos unde!"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam blanditiis"
+" debitis, harum minima mollitia sunt totam. Amet cumque deleniti eos "
+"harum,libero quaerat quos unde!"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_43
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate "
+"deserunt eos id magni molestias nam placeat quam repellendus, suscipit unde."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate "
+"deserunt eos id magni molestias nam placeat quam repellendus, suscipit unde."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_33
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, ipsum, "
+"quod. Architecto delectus doloremque dolorum eveniet minus quod reiciendis "
+"sapiente."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, ipsum, "
+"quod. Architecto delectus doloremque dolorum eveniet minus quod reiciendis "
+"sapiente."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_72
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidun"
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidun"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt"
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_43
+msgid "Lorem ipsum dolor sit."
+msgstr "Lorem ipsum dolor sit."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_56
+msgid "Master the skills of finance accounting at Bradston College."
+msgstr "Beherrschen Sie die Fähigkeiten der Finanzbuchhaltung am Bradston College."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_75
+msgid "Mobile Apps Development"
+msgstr "Entwicklung mobiler Apps"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid "Mobile friendly"
+msgstr "Mobil freundlich"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid "Modern design"
+msgstr "Modernes Design"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_website_snippet_options
+msgid "None"
+msgstr "Keiner"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid "Novi Builder"
+msgstr "Novi Builder"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+msgid "Our Goal"
+msgstr "Unser Ziel"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+msgid "Our Mission"
+msgstr "Unsere Aufgabe"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_64
+msgid "Our team specializes in the transportation of goods across the world."
+msgstr "Unser Team ist auf den weltweiten Warentransport spezialisiert."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+msgid ""
+"Our team works 24/7 to provide extensive support to your clients and "
+"partners."
+msgstr ""
+"Unser Team arbeitet rund um die Uhr, um Ihre Kunden umfassend zu unterstützen und"
+"Partner."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_73
+msgid ""
+"Pellentesque habitant morbi tristique senectus et netus et malesuada fames "
+"ac turpis eges vestibulum tortor quam, feugiat vitae, ultricies eget, tempor"
+" sit amet, ante."
+msgstr ""
+"Pellentesque Habitant Morbi Tristique Senectus und Netus und Maleuada Berühmtheiten"
+"ac turpis eges vestibulum tortor quam, feugiat vitae, ultricies eget, tempor"
+"Setz dich amet, ante."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_54
+msgid ""
+"Planning is the key to successfully and legally reducing your tax liability."
+msgstr ""
+"Planung ist der Schlüssel zur erfolgreichen und rechtlichen Reduzierung Ihrer Steuerschuld."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_70
+msgid "Praesent justo dolor, lobortis quis"
+msgstr "Praesent justo dolor, lobortis quis"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_15
+msgid ""
+"Praesent turpis mauris, aliquet id dolor Gravida adipiscing lectus ut rutrum"
+" Aenean at posuere risus."
+msgstr ""
+"Praesent turpis mauris, aliquet id dolor Gravida adipiscing lectus ut rutrum"
+" Aenean at posuere risus."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52
+msgid ""
+"Praesent vitae ligula nulla. Curabitur porta dolor vitae felis vestibulum."
+msgstr ""
+"Praesent vitae ligula nulla. Curabitur porta dolor vitae felis vestibulum."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_61
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_13
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_57
+msgid "Reconstruction Services"
+msgstr "Wiederaufbau Dienstleistungen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+msgid "Retirement Planning"
+msgstr "Ruhestandsplanung"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_60
+msgid "Safety First"
+msgstr "Sicherheit zuerst"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_70
+msgid "Tailored Inspections"
+msgstr "Maßgeschneiderte Inspektionen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid ""
+"The pattern is well adapted for mobile devices and will display perfectly on"
+" any device"
+msgstr ""
+"Das Muster ist gut für mobile Geräte geeignet und wird perfekt angezeigt."
+" jedes Gerät"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_69
+msgid ""
+"There are many variations of items passag LoIpsum available the majority "
+"ratomised"
+msgstr ""
+"Es gibt viele Variationen von Artikeln passag LoIpsum die Mehrheit verfügbar"
+"ratomisiert"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+msgid ""
+"There are many variations of passages of Lorem Ipsum available, but the "
+"majority have suffered."
+msgstr ""
+"Es gibt viele Variationen von Passagen von Lorem Ipsum, aber die"
+"Die Mehrheit hat gelitten."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_45
+msgid ""
+"This is an amazing set of animated accordions based completely on CSS. They "
+"come oriented both vertically and horizontally in order to fit properly in "
+"your project. In order to see the slides,"
+msgstr ""
+"Dies ist eine erstaunliche Reihe von animierten Akkordeons, die vollständig auf CSS basieren. Sie"
+"kommen Sie vertikal und horizontal ausgerichtet, um richtig zu passen"
+"Ihr Projekt. Um die Folien zu sehen,"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+msgid "Time Savings"
+msgstr "Zeitersparnis"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid ""
+"To be the best, you have to beat the best. Stay ahead of the game with an "
+"awesome design."
+msgstr ""
+"Um der Beste zu sein, muss man den Besten schlagen. Bleiben Sie mit einem dem Spiel voraus. "
+"tolles Design."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_67
+msgid ""
+"Use our Novi Builder to customize and update your website within seconds."
+msgstr ""
+"Verwenden Sie unseren Novi Builder, um Ihre Website innerhalb von Sekunden anzupassen und zu aktualisieren."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+msgid ""
+"Use our strategies and retirement advice, including retirement calculators "
+"to help you retire faster."
+msgstr ""
+"Verwenden Sie unsere Strategien und Ratschläge zur Altersvorsorge, einschließlich Taschenrechner für den Ruhestand."
+"um Ihnen zu helfen, schneller in Rente zu gehen."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_34
+msgid ""
+"Wafer dragée oat cake jelly fruitcake sweet roll liquorice. Cake sugar plum "
+"wafer sugar plum gummies dessert."
+msgstr ""
+"Wafer Dragée Haferkuchen Gelee Obstkuchen süße Rolle Lakritz. Kuchen Zucker Pflaume"
+"Waffelzucker Pflaumengummis Dessert."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_60
+msgid ""
+"We offer first-class protection and security for your children at Kidsy."
+msgstr ""
+"Wir bieten erstklassigen Schutz und Sicherheit für Ihre Kinder bei Kidsy."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_59
+msgid ""
+"We use quality hardware, which is regularly updated to provide reliable "
+"support to your clients."
+msgstr ""
+"Wir verwenden hochwertige Hardware, die regelmäßig aktualisiert wird, um zuverlässige Ergebnisse zu erzielen."
+"Unterstützung für Ihre Kunden."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_65
+msgid ""
+"We'll help you make sensible decisions about money that can help you achieve"
+" your goals in life."
+msgstr ""
+"Wir helfen Ihnen dabei, vernünftige Entscheidungen über Geld zu treffen, die Ihnen dabei helfen können, dies zu erreichen."
+"Ihre Ziele im Leben."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_74
+msgid "Web Design"
+msgstr "Web-Design"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid "Well Documented"
+msgstr "Gut dokumentiert"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_55
+msgid ""
+"We’ll create a chart of accounts to capture all your financial transactions."
+msgstr ""
+"Wir erstellen einen Kontenplan, um alle Ihre Finanztransaktionen zu erfassen."
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_58
+msgid "Who We Are"
+msgstr "Wer wir sind"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_24
+msgid "WordPress"
+msgstr "WordPress"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_22
+msgid "Wordress"
+msgstr "Wordpress"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_66
+msgid ""
+"You can choose from any color combination of the website, and use it by "
+"default"
+msgstr ""
+"Sie können aus einer beliebigen Farbkombination der Website auswählen und diese verwenden."
+"Standard"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+msgid "crash level"
+msgstr "Absturzstufe"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+msgid "defensive"
+msgstr "Defensive"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+msgid "normal driving"
+msgstr "normales Fahren"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_68
+msgid "power booster"
+msgstr "Leistungsverstärker"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_36
+msgid "read more"
+msgstr "Weiterlesen"
+
+#. module: sh_animated_snippets_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets_2.sh_animated_snippets_2_tmpl_10
+msgid ""
+"read more\n"
+"                        <i class=\"fa fa-long-arrow-right\"/>"
+msgstr ""
+"Weiterlesen\n"
+"                        <i class=\"fa fa-long-arrow-right\"/>"

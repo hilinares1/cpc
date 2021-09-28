@@ -1,0 +1,885 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_animated_snippets
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-12 06:20+0000\n"
+"PO-Revision-Date: 2020-11-12 06:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_animated_snippets_snippet_options
+msgid ", div, .card"
+msgstr "، شعبة،. بطاقة"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_26
+msgid ""
+"<span class=\"sh_text\">edit</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-home\" style=\"\"/>"
+msgstr ""
+"<span class=\"sh_text\">تعديل</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-home\" style=\"\"/>"
+
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_26
+msgid ""
+"<span class=\"sh_text\">store</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-heart\"/>"
+msgstr ""
+"<span class=\"sh_text\">متجر</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-heart\"/>"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_26
+msgid ""
+"<span class=\"sh_text\">trash</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-rocket\"/>"
+msgstr ""
+"<span class=\"sh_text\">قمامة، يدمر، يهدم</span>\n"
+"\t\t\t\t\t\t\t\t\t<span class=\"sh_icon fa fa-rocket\"/>"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_60
+msgid ""
+"Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, "
+"lobortis dignissim, pulvinar ac"
+msgstr ""
+"Aliquam dapibus tincidunt metus. Praesent خوستو دولور، lobortis quis،"
+"lobortis dignissim، ميلان شحم"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet
+msgid "Animated Snippets"
+msgstr "القصاصات المتحركة"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid "Brand Building"
+msgstr "بناء العلامة التجارية"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_62
+msgid ""
+"By the same illusion which lifts the horizon of the sea to the level of the "
+"the sable cloud beneath was dished"
+msgstr ""
+"وعلى نفس الوهم الذي يرفع أفق البحر إلى مستوى"
+"سحابة السمور تحت وزعته"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_32
+msgid "Choose your favourite shape that suits your webpage well"
+msgstr "اختيار الشكل المفضل لديك التي تناسب صفحة الويب الخاصة بك بشكل جيد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_31
+msgid ""
+"Click this elegant box to check out our list of amazing box animations."
+msgstr ""
+"انقر على هذا المربع أنيق للتحقق من قائمتنا من الرسوم المتحركة مربع مذهلة."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_30
+msgid ""
+"Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi"
+" nec elementum vehiculaid fringilla."
+msgstr ""
+"وكالات التصنيف الائتماني sagittis. Vivamus في erat URNA CURSUS دهليز. دهليز rutrum، ميل""
+"غير المصنفة في موضع elementum vehiculaid fringilla.""
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_74
+msgid ""
+"Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas "
+"tempus, tellus eget condimentum."
+msgstr ""
+"Curabitur ullamcorper ultricies احترازيا. نام eget وثيقة الهوية الوحيدة. Etiam rhoncus. Maecenas"
+"تيمبوس، تيلوس eget condimentum."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_animated_snippets_snippet_options
+msgid "Disable Hover"
+msgstr "تعطيل تحوم"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_44
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_46
+msgid "Donec id elit non mi porta gravida at eget metus. Fusce dapibus."
+msgstr "Donec معرف إيليت غير ميل بورتا حامل؛ حبلى في eget metus. Fusce dapibus."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_58
+msgid ""
+"Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. "
+"Suspendisse"
+msgstr ""
+"أوديو Donec. Quisque volutpat ماتيس إيروس. Nullam malesuada erat التحرير turpis."
+"Suspendisse"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_50
+msgid ""
+"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+" the fugiat nulla pariatur."
+msgstr ""
+"Duis aute irure دولور في reprehenderit في voluptate velit ESSE cillum غير مؤلمة"
+"وpariatur fugiat ولا عقوبة."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_animated_snippets_snippet_options
+msgid "Enable Hover"
+msgstr "تمكين التحويم"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_63
+msgid ""
+"Explain to you how all this mistaken idea of denouncing pleasure and "
+"praising pain was born and I will give you a complete."
+msgstr ""
+"أشرح لك كيف أن كل هذه الفكرة الخاطئة من المتعة وشجب"
+"ولد ألم يمدح وأنا سوف أعطيك كامل."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_33
+msgid "Find your suitable icon size in the range of Tiny to X Large"
+msgstr "العثور على حجم مناسب الرمز في مجموعة من الصغير إلى X كبير"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_64
+msgid ""
+"Leverage agile frameworks to provide a robust synopsis for high level "
+"overviews."
+msgstr ""
+"النفوذ رشيقة الأطر لتوفير ملخص القوي على مستوى عال"
+"لمحات عامة."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_27
+msgid "Lorem"
+msgstr "أبجد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_44
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_51
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_60
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_63
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_64
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_65
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_66
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_67
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_70
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_71
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_73
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_74
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_75
+msgid "Lorem Ipsum"
+msgstr "أبجد هوز"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_51
+msgid "Lorem Ipsum dolor"
+msgstr "أبجد هوز دولور"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_32
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_33
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_65
+msgid "Lorem ipsum"
+msgstr "أبجد هوز"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_73
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit sed don eiusmod "
+"tempor enim minim veniam quis."
+msgstr ""
+"أبجد هوز دولور الجلوس امات consectetur adipisicing إيليت ااا دون eiusmod"
+"tempor ENIM قطرة veniam quis."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit "
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum."
+msgstr ""
+"أبجد هوز دولور الجلوس امات consectetur adipisicing إيليت. كوي quaerat fugit"
+"quas veniam perferendis repudiandae سيكوي، غير مؤلمة quisquam ILLUM."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_4
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit "
+"quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem "
+"natus et veniam perspiciatis."
+msgstr ""
+"أبجد هوز دولور الجلوس امات consectetur adipisicing إيليت. كوي quaerat fugit"
+"quas veniam perferendis repudiandae سيكوي، غير مؤلمة quisquam ILLUM؟ إيوس autem"
+"natus آخرون veniam perspiciatis."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_27
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut..."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، conse ctetur adipisicing إيليت، ااا تأليف eiusmod"
+"tempor incididunt التحرير ..."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+msgid ""
+"Lorem ipsum dolor sit amet, consecte adipisicing elit. A alias aspernatur "
+"autem blanditiis."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consecte adipisicing إيليت. A aspernatur الاسم المستعار""
+"autem blanditiis.""
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+msgid ""
+"Lorem ipsum dolor sit amet, consecte adipisicing elit. A alias aspernatur "
+"autem blanditiis. Lorem ipsum dolor sit amet."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consecte adipisicing إيليت. A aspernatur الاسم المستعار"
+"autem blanditiis. أبجد هوز دولور الجلوس امات."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_54
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu "
+"tortor. Sed  get sit ame egestas, cursus felis quis."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipis الوراثة إيليت. Nullam arcu معرف"
+"tortor. الحوار الاقتصادي الاستراتيجي الحصول egestas اعتصام آمي، CURSUS الهرية quis."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_70
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu "
+"tortor. Sed eget sit ame egestas, cursus felis quis, vestibulum."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipis الوراثة إيليت. Nullam arcu معرف"
+"tortor. الحوار الاقتصادي الاستراتيجي eget اعتصام egestas آمي، CURSUS الهرية quis، دهليز."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_28
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed"
+" arcu interdum elementum."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. في فريوس] تكشيرة ااا"
+"arcu interdum elementum."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_1
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non risus "
+"a sem hendrerit."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. Maecenas غير تكشيرة"
+"ووزارة شؤون المرأة hendrerit."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae "
+"metus nec libero accumsan posuere. Mauris vitae."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. Maecenas الذاتية"
+"metus غير المصنفة في موضع يبيرو الاستفسار accumsan. Mauris الذاتية."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at sapien at "
+"erat hendrerit."
+msgstr ""
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_59
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor "
+"orci sed porttitor lobortis."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. نونك في سابين في"
+"erat hendrerit."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar "
+"posuere tempor. Duis at neque fermentum, molestie massa vel, aliquet."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. Praesent porttitor"
+الحوار الاقتصادي الاستراتيجي أورسي porttitor lobortis.
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis purus "
+"vitae dui efficitur facilisis non vitae metus. Phasellus."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. Praesent شحم"
+"الاستفسار tempor. Duis في خميرة neque، molestie ماسا فيل، aliquet."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_22
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod "
+"pharetra arcu, quis tincidunt dolor euismod in. Ut pellentesque a."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. Proin quis بوروسv"
+"السيرة دوى efficitur facilisis غير الذاتية metus. Phasellus."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_51
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_53
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis massa"
+" ut cursus tincidunt. Aenean eleifend ex eros"
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. euismod الحوار الاقتصادي الاستراتيجي"
+"pharetra arcu، quis tincidunt دولور euismod في. أوت pellentesque أ."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta semper "
+"ipsum. Vivamus pulvinar purus quis orci."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. سد facilisis ماسا"
+"التحرير CURSUS tincidunt. Aenean eleifend السابق إيروس"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium "
+"consequuntur, deleniti eaque excepturi."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipiscing إيليت. التحرير بورتا سمبر"
+"هوز. Vivamus شحم بوروس quis أورسي."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_2
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium "
+"cupiditate delectus deserunt dolores eum ipsa molestiae officiis quasi "
+"ratione voluptatum."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipisicing إيليت. Accusantium"
+"cupiditate delectus deserunt دولوريس EUM خط الأنابيب molestiae officiis شبه"
+"الاختصاص voluptatum."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam cumque, "
+"cupiditate debitis dolorem et fugit hic iusto maxime numquam officia."
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipisicing إيليت. Aliquam cumque،"
+"cupiditate debitis dolorem آخرون fugit الائتلاف iusto ماكسيم numquam officia."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam architecto"
+" cum dolore dolores fuga libero magni placeat possimus sequi"
+msgstr ""
+"أبجد هوز دولور الجلوس امات، consectetur adipisicing إيليت. Aperiam architecto"
+"نائب الرئيس غير مؤلمة دولوريس فوجا يبيرو ماغني placeat possimus سيكوي"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_65
+msgid ""
+"Mauris in quam tristique, dignissim urna in, molestie felis. Fusce tristique"
+" Mauris tri,dignissim urna in."
+msgstr ""
+"Mauris في quam tristique، dignissim URNA في، molestie الهرية. Fusce tristique"
+"Mauris الثلاثية، dignissim URNA في."
+
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_animated_snippets_snippet_options
+msgid "None"
+msgstr "لا شيء"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_68
+msgid ""
+"Pallentesque accumsan semper concectetur. Nullam volutpat euismod molestie. "
+"Vestibulum ante ipsum primis in facucibus."
+msgstr ""
+"Pallentesque accumsan سمبر concectetur. Nullam volutpat euismod molestie."
+"دهليز انتي هوز بريمس في facucibus."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_61
+msgid ""
+"Pellentesque pharetra, orci sed aliquet cursus, est mi pulvinar quam, "
+"faucibus est felis sit amet eros curabitur."
+msgstr ""
+"Pellentesque pharetra، أورسي ااا aliquet CURSUS، طبقا لتقديرات ميل شحم quam،"
+"faucibus بتوقيت شرق الولايات المتحدة الهرية الجلوس امات إيروس curabitur."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_32
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_33
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_36
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_37
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_39
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_40
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_44
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_45
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_46
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_49
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_50
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_51
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_60
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_63
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_64
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_65
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_66
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_67
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_70
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_71
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_73
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_74
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_75
+msgid ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum "
+"luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit "
+"amet viverra diam nulla ac nisi rhoncus."
+msgstr ""
+"Quisque غير erat ميل. Etiam congue آخرون augue ااا تيمبوس. Aenean ااا هوز"
+"luctus، scelerisque غير المصنفة في موضع هوز، iaculis خوستو. الحوار الاقتصادي الاستراتيجي في بوروس دهليز، والجلوس"
+"امات viverra بقطر ولا عقوبة ميلان احترازيا rhoncus."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_28
+msgid ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum "
+"luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit "
+"amet viverra diam nulla ac nisi rhoncus."
+msgstr ""
+"Quisque غير erat ميل. Etiam congue آخرون augue ااا تيمبوس. Aenean ااا هوز"
+"luctus، scelerisque غير المصنفة في موضع هوز، iaculis خوستو. الحوار الاقتصادي الاستراتيجي في بوروس دهليز، والجلوس"
+"امات viverra بقطر ولا عقوبة ميلان احترازيا rhoncus."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+msgid "RESPONSIVE DESIGN"
+msgstr "الرسم المتجاوب"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid "Read More"
+msgstr "قراءة المزيد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_34
+msgid ""
+"Replace icon by your favourite image or change image to serve your box "
+"purpose"
+msgstr ""
+"استبدال رمز من المفضلة لديك صورة أو تغيير صورة لخدمة المربع الخاص"
+"هدف"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_65
+msgid "Research  Design"
+msgstr "تصميم البحث"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid "Responsive Design"
+msgstr "الرسم المتجاوب"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+msgid "Responsive design"
+msgstr "الرسم المتجاوب"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_66
+msgid ""
+"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below "
+"for those interested."
+msgstr ""
+"في جزء القياسية من أبجد هوز استخدمت منذ يرد أدناه 1500s في"
+"للراغبين."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_75
+msgid ""
+"Uniquely productivate real time collaboration idea-sharing after awesome "
+"quality vectors after"
+msgstr ""
+"تقاسم الفكرة productivate فريد في الوقت الحقيقي التعاون بعد رهيبة"
+"ناقلات جودة بعد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_37
+msgid "Utilize this Icon Box as a Services box in your homepage"
+msgstr "استخدام هذا الإطار كرمز مربع لخدمات صفحتك الرئيسية"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_48
+msgid ""
+"Vitae adipiscing turpis. Aenean ligula nibh in, molestie id viverra a, "
+"dapibus at dolor."
+msgstr ""
+"السيرة adipiscing turpis. Aenean ligula nibh في، معرف molestie viverra لذلك،"
+"dapibus في دولور."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_47
+msgid "Vitae adipiscing turpis. Aenean ligula nibo molestie id vivide."
+msgstr "السيرة adipiscing turpis. Aenean ligula nibo molestie معرف vivide."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_26
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_27
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_28
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_29
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_32
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_33
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_34
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_36
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_37
+msgid "WHAT WE DO"
+msgstr "الذي نفعله"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_67
+msgid ""
+"We also provide tangible results and measurable long-term value business."
+msgstr ""
+"ونحن نقدم أيضا نتائج ملموسة وقابلة للقياس القيمة التجارية على المدى الطويل."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_71
+msgid ""
+"We understand the importance of approaching each work integrally and believe"
+" in the power of simple and easy communication."
+msgstr ""
+"ونحن نفهم أهمية تناول كل عمل متكامل ونعتقد"
+"في قوة الاتصال بسيطة وسهلة."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_23
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_5
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid "Web Design"
+msgstr "تم تصميم الموقع"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_12
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_14
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_17
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_18
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_21
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_22
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_3
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_4
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_6
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_7
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_8
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_9
+msgid "Web Development"
+msgstr "تطوير الشبكة"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_35
+msgid ""
+"You can choose icon color, icon background color, icon hover color, icon "
+"background hover color, title color, body color and more."
+msgstr ""
+"يمكنك اختيار لون رمز، لون رمز الخلفية، لون رمز تحوم، رمز"
+"لون الخلفية تحوم، لون عنوان، لون الجسم وأكثر من ذلك."
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_36
+msgid ""
+"You could add link to box with options such as Open link in new tab or "
+"Readmore button"
+msgstr ""
+"هل يمكن إضافة وصلة المربع لمع خيارات مثل رابط فتح في علامة تبويب جديدة أو"
+"زر اقرأ المزيد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+msgid "brand building"
+msgstr "بناء العلامة التجارية"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_38
+msgid ""
+"learn more \n"
+"\t\t\t\t\t\t\t\t\t<span class=\"fa fa-angle-right\"/>"
+msgstr ""
+"معرفة المزيد \n"
+"\t\t\t\t\t\t\t\t\t<span class=\"fa fa-angle-right\"/>"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_53
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_54
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_55
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_56
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_57
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_60
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_61
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_62
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_63
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_64
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_66
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_67
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_68
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_69
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_70
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_71
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_72
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_73
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_74
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_75
+msgid "lorem ipsum"
+msgstr "أبجد هوز"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_36
+msgid "lorem ipsum color"
+msgstr "اللون أبجد هوز"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_35
+msgid "lorem ipsum icon"
+msgstr "أبجد هوز رمز"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_71
+msgid "more"
+msgstr "أكثر"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_25
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_63
+msgid "read more"
+msgstr "قراءة المزيد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_15
+msgid "responsive design"
+msgstr "الرسم المتجاوب"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_as_animated_snippet_27
+msgid "show more"
+msgstr "أظهر المزيد"
+
+#. module: sh_animated_snippets
+#: model_terms:ir.ui.view,arch_db:sh_animated_snippets.sh_acb_animated_content_box_tmpl_24
+msgid "web design"
+msgstr "تصميم مواقع الإنترنت"

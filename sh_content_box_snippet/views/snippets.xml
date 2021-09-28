@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- FEATURE SNIPPET 2 -->
+    <template id="sh_cbs_feature_snippet_2" name="Sh Snippet 1">
+        <!-- start of feature box 2-->
+        <section id="feature_box_snippet_2">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="sh_feature col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="icon_text">
+                                <span class="fa fa-television sh_icon"></span>
+                                <h4 class="sh_name">Lorem ipsum</h4>
+                            </div>
+                            <div class="content_text">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae tempora</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="sh_feature col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="fe_box feature_box">
+                            <div class="icon_text">
+                                <span class="fa fa-users sh_icon"></span>
+                                <h4 class="sh_name">Lorem ipsum</h4>
+                            </div>
+                            <div class="content_text">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae tempora</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="sh_feature col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box fe_box2">
+                            <div class="icon_text">
+                                <span class="fa fa-rocket sh_icon"></span>
+                                <h4 class="sh_name">Lorem ipsum</h4>
+                            </div>
+                            <div class="content_text">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae tempora</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="sh_feature col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="icon_text">
+                                <span class="fa fa-paint-brush sh_icon"></span>
+                                <h4 class="sh_name">Lorem ipsum</h4>
+                            </div>
+                            <div class="content_text">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo vitae tempora</p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 2 -->
+    </template>
+
+    <!-- FEATURE SNIPPET 4 -->
+    <template id="sh_cbs_feature_snippet_4" name="Sh Snippet 2">
+        <!-- start of feature box 4 -->
+        <section id="feature_box_snippet_4">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor sit</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 border-right sh_animation_part">
+                        <section class="icon_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-television"></span>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 border-right sh_animation_part">
+                        <section class="icon_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-camera"></span>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="icon_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-book"></span>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 4 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 7  -->
+    <template id="sh_cbs_feature_snippet_7" name="Sh Snippet 3">
+        <!-- start of feature box 7 -->
+        <section id="feature_box_snippet_7">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="sh_feature col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="icon_box">
+                            <span class="fa fa-shield"></span>
+                            <h4>Lorem ipsum dolor</h4>
+                            <p>
+                                Ante nascetur gravida a ut massa sociosqu sodales fames inceptos a parturient arcu nec faucibus vestibulum vulputate montes a. Leo eu sapien adipiscing ametSed tristique fringilla sapien nibh cursus nullat.
+                            </p>
+                            <a href="#">read more <span class="fa fa-long-arrow-right"></span></a>
+                        </section>
+                    </div>
+
+                    <div class="sh_feature col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="icon_box">
+                            <span class="fa fa-users"></span>
+                            <h4>Lorem ipsum</h4>
+                            <p>
+                                Ante nascetur gravida a ut massa sociosqu sodales fames inceptos a parturient arcu nec faucibus vestibulum vulputate montes a. Leo eu sapien adipiscing ametSed tristique fringilla sapien nibh cursus nullat.
+                            </p>
+                            <a href="#">read more <span class="fa fa-long-arrow-right"></span></a>
+                        </section>
+                    </div>
+
+                    <div class="sh_feature col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="icon_box">
+                            <span class="fa fa-paw"></span>
+                            <h4>Lorem ipsum</h4>
+                            <p>
+                                Ante nascetur gravida a ut massa sociosqu sodales fames inceptos a parturient arcu nec faucibus vestibulum vulputate montes a. Leo eu sapien adipiscing ametSed tristique fringilla sapien nibh cursus nullat.
+                            </p>
+                            <a href="#">read more <span class="fa fa-long-arrow-right"></span></a>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 7 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 11  -->
+    <template id="sh_cbs_feature_snippet_11" name="Sh Snippet 4">
+        <!-- start of feature box 11 -->
+        <section id="feature_box_snippet_11">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="content_box">
+                                <span class="fa fa-cubes sh_icon"></span>
+                                <span class="sh_name">Lorem ipsum</span>
+                            </div>
+                            <p class="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed maximus velit.</p>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="content_box">
+                                <span class="fa fa-envira sh_icon"></span>
+                                <span class="sh_name">Lorem ipsum</span>
+                            </div>
+                            <p class="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed maximus velit.</p>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="content_box">
+                                <span class="fa fa-code sh_icon"></span>
+                                <span class="sh_name">Lorem ipsum</span>
+                            </div>
+                            <p class="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed maximus velit.</p>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 11 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 12  -->
+    <template id="sh_cbs_feature_snippet_12" name="Sh Snippet 5">
+        <!-- start of feature box 12 -->
+        <section id="feature_box_snippet_12">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="sh_disable_hover_part col-lg-6 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <img src="/sh_content_box_snippet/static/src/img/sn_12_1.png" />
+                            <div class="img_text">
+                                <h3>Lorem</h3>
+                                <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</p>
+                                <a href="#" class="btn btn-primary">shop now!</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sh_disable_hover_part col-lg-6 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <img src="/sh_content_box_snippet/static/src/img/sn_12_2.png" />
+                            <div class="img_text">
+                                <h3>Lorem</h3>
+                                <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</p>
+                                <a href="#" class="btn btn-primary">shop now!</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 12 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 14  -->
+    <template id="sh_cbs_feature_snippet_14" name="Sh Snippet 6">
+        <!-- start of feature box 14 -->
+        <section id="feature_box_snippet_14">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-cloud-upload"></span>
+                            </div>
+                            <div class="content_text">
+                                <h3>Lorem</h3>
+                                <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-cloud"></span>
+                            </div>
+                            <div class="content_text">
+                                <h3>Lorem</h3>
+                                <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="sh_icon">
+                                <span class="fa fa-cloud-download"></span>
+                            </div>
+                            <div class="content_text">
+                                <h3>Lorem</h3>
+                                <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt</p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 14 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 17  -->
+    <template id="sh_cbs_feature_snippet_17" name="Sh Snippet 7">
+        <!-- start of feature 17 -->
+        <section id="feature_box_snippet_17">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <!-- <div class="content_box"> -->
+                            <span class="content_num">1</span>
+                            <h3>Lorem</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis
+                                augue et, dictum rhoncus ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.
+                            </p>
+                            <!-- </div> -->
+                        </section>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box1">
+                            <span class="content_num">1</span>
+                            <h3>Lorem</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </section>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box2">
+                            <span class="content_num">1</span>
+                            <h3>Lorem</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </section>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box3">
+                            <span class="content_num">1</span>
+                            <h3>Lorem</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 17 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 19  -->
+    <template id="sh_cbs_feature_snippet_19" name="Sh Snippet 8">
+        <!-- start of feature box 19 -->
+        <section id="feature_box_snippet_19">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            <section class="main_box">
+                                <div class="content_text">
+                                    <span class="sh_icon fa fa-heart"></span>
+                                    <h4>Lorem</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing. Odit qui minima praesentium illo obcaecati...</p>
+                                    <a href="#" class="btn btn-primary">show more</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            <section class="main_box">
+                                <div class="content_text">
+                                    <span class="sh_icon fa fa-rocket"></span>
+                                    <h4>Lorem</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing. Odit qui minima praesentium illo obcaecati...</p>
+                                    <a href="#" class="btn btn-primary">show more</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                            <section class="main_box">
+                                <div class="content_text">
+                                    <span class="sh_icon fa fa-users"></span>
+                                    <h4>Lorem</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing. Odit qui minima praesentium illo obcaecati...</p>
+                                    <a href="#" class="btn btn-primary">show more</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 19 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 23  -->
+    <template id="sh_cbs_feature_snippet_23" name="Sh Snippet 9">
+        <!-- start of feature box 23 -->
+        <section id="feature_box_snippet_23">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-heart"></span>
+                            </div>
+                            <div class="content_text">
+                                <h2>Lorem</h2>
+                                <p>Duis autem vel eum iriure dolor in hendrerit</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-users"></span>
+                            </div>
+                            <div class="content_text">
+                                <h2>Lorem</h2>
+                                <p>Duis autem vel eum iriure dolor in hendrerit</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-rocket"></span>
+                            </div>
+                            <div class="content_text">
+                                <h2>Lorem</h2>
+                                <p>Duis autem vel eum iriure dolor in hendrerit</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 23 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 25  -->
+    <template id="sh_cbs_feature_snippet_25" name="Sh Snippet 10">
+        <!-- start of feature box 25 -->
+        <section id="feature_box_snippet_25">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <span class="fa fa-rocket"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <span class="fa fa-users"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <span class="fa fa-heart"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum rhoncus ante.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 25 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 28  -->
+    <template id="sh_cbs_feature_snippet_28" name="Sh Snippet 11">
+        <!-- start of feature box 28 -->
+        <section id="feature_box_snippet_28">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <h2>Lorem</h2>
+                            <p>Aliquam commodo arPhasellus sed metus at ligula tincidunt condimentum. Phasellus enim tortor, po suere a suscipit ac, molestie vel quam.</p>
+                            <div class="sh_btn">
+                                <a href="#">read more <span class="fa fa-angle-right"></span></a>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box2">
+                            <h2>Lorem</h2>
+                            <p>Aliquam commodo arPhasellus sed metus at ligula tincidunt condimentum. Phasellus enim tortor, po suere a suscipit ac, molestie vel quam.</p>
+                            <div class="sh_btn">
+                                <a href="#">read more <span class="fa fa-angle-right"></span></a>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box3">
+                            <h2>Lorem</h2>
+                            <p>Aliquam commodo arPhasellus sed metus at ligula tincidunt condimentum. Phasellus enim tortor, po suere a suscipit ac, molestie vel quam.</p>
+                            <div class="sh_btn">
+                                <a href="#">read more <span class="fa fa-angle-right"></span></a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 28 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 30  -->
+    <template id="sh_cbs_feature_snippet_30" name="Sh Snippet 12">
+        <!-- start of feature box 30 -->
+        <section id="feature_box_snippet_30">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="content_img">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, con</p>
+                                <a href="#">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="content_img">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, con</p>
+                                <a href="#">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 30 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 31  -->
+    <template id="sh_cbs_feature_snippet_31" name="Sh Snippet 13">
+        <!-- start of feature box 31 -->
+        <section id="feature_box_snippet_31">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="main">
+                                <div class="img_box">
+                                    <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                                </div>
+                                <div class="content_box">
+                                    <div class="content_text">
+                                        <h4>lorem</h4>
+                                        <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua.</p>
+                                        <div class="sh_btn">
+                                            <a href="#" class="btn btn-default">read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="main">
+                                <div class="img_box">
+                                    <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                                </div>
+                                <div class="content_box">
+                                    <div class="content_text">
+                                        <h4>lorem</h4>
+                                        <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua.</p>
+                                        <div class="sh_btn">
+                                            <a href="#" class="btn btn-default">read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="main">
+                                <div class="img_box">
+                                    <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                                </div>
+                                <div class="content_box">
+                                    <div class="content_text">
+                                        <h4>lorem</h4>
+                                        <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua.</p>
+                                        <div class="sh_btn">
+                                            <a href="#" class="btn btn-default">read more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 31 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 35  -->
+    <template id="sh_cbs_feature_snippet_35" name="Sh Snippet 14">
+        <!-- start of feature box 35 -->
+        <section id="feature_box_snippet_35">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod tempor incididunt ut</p>
+                                <a href="#" class="btn btn-primary">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod tempor incididunt ut</p>
+                                <a href="#" class="btn btn-primary">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 35 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 37  -->
+    <template id="sh_cbs_feature_snippet_37" name="Sh Snippet 15">
+        <!-- start of feature box 37 -->
+        <section id="feature_box_snippet_37">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>LOREM IPSUM DOLOR SIT</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod tempor incididunt ut</p>
+                                <a href="#" class="btn btn-primary">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_text">
+                                <h4>LOREM IPSUM DOLOR SIT</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod tempor incididunt ut</p>
+                                <a href="#" class="btn btn-primary">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 37 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 38  -->
+    <template id="sh_cbs_feature_snippet_38" name="Sh Snippet 16">
+        <!-- start of feature box 38 -->
+        <section id="feature_box_snippet_38">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <div class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut...</p>
+                                <a href="#" class="sh_btn btn btn-primary">show more</a>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <div class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut...</p>
+                                <a href="#" class="sh_btn btn btn-primary">show more</a>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                            </div>
+                            <div class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut...</p>
+                                <a href="#" class="sh_btn btn btn-primary">show more</a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 38 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 41  -->
+    <template id="sh_cbs_feature_snippet_41" name="Sh Snippet 17">
+        <!-- start of feature box 41 -->
+        <section id="feature_box_snippet_41">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                                <a href="#" class="sh_btn btn btn-primary">learn more</a>
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut.labore et dolore...</p>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                                <a href="#" class="sh_btn btn btn-primary">learn more</a>
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut.labore et dolore...</p>
+                            </section>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                                <a href="#" class="sh_btn btn btn-primary">learn more</a>
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem</h4>
+                                <p>Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut.labore et dolore...</p>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 41 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 42  -->
+    <template id="sh_cbs_feature_snippet_42" name="Sh Snippet 18">
+        <!-- start of feature box 42 -->
+        <section id="feature_box_snippet_42">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <div class="text_box">
+                                        <h4>Lorem</h4>
+                                        <span></span>
+                                        <p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISI CING ELIT, SED DO EIUS MOD TEMPOR INCIDIDUNT UT</p>
+                                        <a href="#" class="btn btn-primary">learn more</a>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <div class="text_box">
+                                        <h4>Lorem</h4>
+                                        <span></span>
+                                        <p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISI CING ELIT, SED DO EIUS MOD TEMPOR INCIDIDUNT UT</p>
+                                        <a href="#" class="btn btn-primary">learn more</a>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <div class="text_box">
+                                        <h4>Lorem</h4>
+                                        <span></span>
+                                        <p>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISI CING ELIT, SED DO EIUS MOD TEMPOR INCIDIDUNT UT</p>
+                                        <a href="#" class="btn btn-primary">learn more</a>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 42 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 43  -->
+    <template id="sh_cbs_feature_snippet_43" name="Sh Snippet 19">
+        <!-- start of feature box 43 -->
+        <section id="feature_box_snippet_43">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, con sectetur adipisi cing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+                                <a href="#">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, con sectetur adipisi cing elit, sed do eius mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>
+                                <a href="#">learn more</a>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 43 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 47  -->
+    <template id="sh_cbs_feature_snippet_47" name="Sh Snippet 20">
+        <!-- start of feature box 47 -->
+        <section id="feature_box_snippet_47">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-television"></span>
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <h4>Lorem Ipsum</h4>
+                                    <p>by Ipsum</p>
+                                </div>
+                                <div class="sh_btn">
+                                    <a href="#" class="btn btn-default">Take a look</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-heart"></span>
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <h4>Lorem Ipsum</h4>
+                                    <p>by Ipsum</p>
+                                </div>
+                                <div class="sh_btn">
+                                    <a href="#" class="btn btn-default">Take a look</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="icon_box">
+                                <span class="fa fa-paint-brush"></span>
+                            </div>
+                            <section class="content_box">
+                                <div class="content_text">
+                                    <h4>Lorem Ipsum</h4>
+                                    <p>by Ipsum</p>
+                                </div>
+                                <div class="sh_btn">
+                                    <a href="#" class="btn btn-default">Take a look</a>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 47 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 48  -->
+    <template id="sh_cbs_feature_snippet_48" name="Sh Snippet 21">
+        <!-- start of feature box 48 -->
+        <section id="feature_box_snippet_48">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                            <div class="feature_box">
+                                <div class="img_box">
+                                    <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                                    <section class="content_text">
+                                        <h4>Lorem ipsum</h4>
+                                        <p>by Ipsum</p>
+                                        <a href="#" class="btn btn-primary">Take a look</a>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                            <div class="feature_box">
+                                <div class="img_box">
+                                    <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                                    <section class="content_text">
+                                        <h4>Lorem ipsum</h4>
+                                        <p>by Ipsum</p>
+                                        <a href="#" class="btn btn-primary">Take a look</a>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 48 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 49  -->
+    <template id="sh_cbs_feature_snippet_49" name="Sh Snippet 22">
+        <!-- start of feature box 49 -->
+        <section id="feature_box_snippet_49">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_1.png" />
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem Ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur pellentesque neque eget diam.</p>
+                                <section class="price_box">
+                                    <span>$9</span>
+                                </section>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_2.png" />
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem Ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur pellentesque neque eget diam.</p>
+                                <section class="price_box">
+                                    <span>$9</span>
+                                </section>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="img_box">
+                                <img src="/sh_content_box_snippet/static/src/img/sn_16_3.png" />
+                            </div>
+                            <section class="content_box">
+                                <h4>Lorem Ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur pellentesque neque eget diam.</p>
+                                <section class="price_box">
+                                    <span>$9</span>
+                                </section>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 49 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 51  -->
+    <template id="sh_cbs_feature_snippet_51" name="Sh Snippet 23">
+        <!-- start of feature box 51 -->
+        <section id="feature_box_snippet_51">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box o_cc">
+                            <div class="sh_num">
+                                <p>01</p>
+                            </div>
+                            <span class="fa fa-heart"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum. Nullam vel gravida lacus. Ut lacinia dui et tellus eleifend, non vehicula augue imperdiet.</p>
+                            <a href="#" class="btn btn-primary">explore</a>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box o_cc">
+                            <div class="sh_num">
+                                <p>01</p>
+                            </div>
+                            <span class="fa fa-rocket"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum. Nullam vel gravida lacus. Ut lacinia dui et tellus eleifend, non vehicula augue imperdiet.</p>
+                            <a href="#" class="btn btn-primary">explore</a>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box o_cc">
+                            <div class="sh_num">
+                                <p>01</p>
+                            </div>
+                            <span class="fa fa-television"></span>
+                            <h4>Lorem</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum. Nullam vel gravida lacus. Ut lacinia dui et tellus eleifend, non vehicula augue imperdiet.</p>
+                            <a href="#" class="btn btn-primary">explore</a>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 51 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 52  -->
+    <template id="sh_cbs_feature_snippet_52" name="Sh Snippet 24">
+        <!-- start of feature box 52 -->
+        <section id="feature_box_snippet_52">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <section class="icon_box">
+                                <span class="fa fa-heart"></span>
+                            </section>
+                            <div class="content_box">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum.</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <section class="icon_box">
+                                <span class="fa fa-paint-brush"></span>
+                            </section>
+                            <div class="content_box">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum.</p>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <section class="icon_box">
+                                <span class="fa fa-rocket"></span>
+                            </section>
+                            <div class="content_box">
+                                <h4>Lorem ipsum</h4>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed arcu interdum elementum.</p>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 52 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 58  -->
+    <template id="sh_cbs_feature_snippet_58" name="Sh Snippet 25">
+        <!-- start of feature box 58 -->
+        <section id="feature_box_snippet_58">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <span class="fa fa-heart"></span>
+                            <h4>Lorem ipsum</h4>
+                            <p>
+                                Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla. Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum
+                                vehiculaid fringilla.
+                            </p>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <span class="fa fa-rocket"></span>
+                            <h4>Lorem ipsum</h4>
+                            <p>Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla.</p>
+                        </section>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <span class="fa fa-users"></span>
+                            <h4>Lorem ipsum</h4>
+                            <p>Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla.</p>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 58 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 59  -->
+    <template id="sh_cbs_feature_snippet_59" name="Sh Snippet 26">
+        <!-- start of feature box 59 -->
+        <section id="feature_box_snippet_59">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box">
+                            <div class="content_box">
+                                <div class="icon_box">
+                                    <section class="sh_bg"></section>
+                                    <span class="fa fa-rocket sh_icon"></span>
+                                    <span class="sh_after"></span>
+                                </div>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box2">
+                            <div class="content_box">
+                                <div class="icon_box">
+                                    <span class="sh_bg"></span>
+                                    <span class="fa fa-first-order sh_icon"></span>
+                                    <span class="sh_after"></span>
+                                </div>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-12 col-xs-12 sh_animation_part">
+                        <div class="feature_box feature_box3">
+                            <div class="content_box">
+                                <div class="icon_box">
+                                    <span class="sh_bg"></span>
+                                    <span class="fa fa-users sh_icon"></span>
+                                    <span class="sh_after"></span>
+                                </div>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 59 -->
+    </template>
+
+    <!--  FEATURE SNIPPET 60  -->
+    <template id="sh_cbs_feature_snippet_60" name="Sh Snippet 27">
+        <!-- start of feature box 60 -->
+        <section id="feature_box_snippet_60">
+            <div class="container">
+                <div class="sh_title sh_animation_part">
+                    <h2>Lorem ipsum dolor</h2>
+                    <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box">
+                            <div class="content_box">
+                                <div class="icon_box">
+                                    <span class="sh_bg"></span>
+                                    <span class="fa fa-rocket sh_icon"></span>
+                                    <span class="sh_after"></span>
+                                </div>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                                <a href="#">read more</a>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12 sh_animation_part">
+                        <section class="feature_box feature_box2">
+                            <div class="content_box">
+                                <div class="icon_box">
+                                    <span class="sh_bg"></span>
+                                    <span class="fa fa-users sh_icon"></span>
+                                    <span class="sh_after"></span>
+                                </div>
+                            </div>
+                            <div class="content_text">
+                                <h4>Lorem ipsum</h4>
+                                <p>Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus.</p>
+                                <a href="#">read more</a>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end of feature box 60 -->
+    </template>
+</odoo>

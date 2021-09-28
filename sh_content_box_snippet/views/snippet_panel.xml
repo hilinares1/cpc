@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="sh_cbs_content_box_snippet" inherit_id="website.snippets" name="Content Box Snippet">
+        <xpath expr="//div[@id='snippet_structure']" position="after">
+            <div id="sh_content_box_snippet" class="o_panel">
+                <div class="o_panel_header">
+                    Content Box Snippet
+                </div>
+
+                <div class="o_panel_body">
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_2" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_2.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_4" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_4.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_7" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_7.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_11" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_11.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_12" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_12.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_14" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_14.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_17" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_17.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_19" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_19.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_23" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_23.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_25" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_25.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_28" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_28.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_30" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_30.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_31" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_31.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_35" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_35.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_37" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_37.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_38" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_38.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_41" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_41.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_42" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_42.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_43" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_43.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_47" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_47.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_48" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_48.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_49" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_49.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_51" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_51.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_52" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_52.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_58" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_58.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_59" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_59.png" />
+                    <t t-snippet="sh_content_box_snippet.sh_cbs_feature_snippet_60" t-thumbnail="/sh_content_box_snippet/static/src/img/blocks/cbs_block_60.png" />
+                </div>
+            </div>
+        </xpath>
+    </template>
+</odoo>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="sh_sis_icon_snippet" inherit_id="website.snippets" name="Icon Snippet">
+        <xpath expr="//div[@id='snippet_structure']" position="after">
+            <div id="sh_heading_snippet" class="o_panel">
+                <div class="o_panel_header">
+                    Icon or Image Snippets
+                </div>
+                <div class="o_panel_body">
+                    <t t-snippet="sh_icon_snippet.sh_sis_icon_snippet_3" t-thumbnail="/sh_icon_snippet/static/src/img/blocks/1.svg" />
+
+                    <t t-snippet="sh_icon_snippet.sh_sis_icon_snippet_4" t-thumbnail="/sh_icon_snippet/static/src/img/blocks/2.svg" />
+
+                    <t t-snippet="sh_icon_snippet.sh_sis_snippet_icon_and_img" t-thumbnail="/sh_icon_snippet/static/src/img/blocks/5.svg" />
+
+                    <t t-snippet="sh_icon_snippet.sh_sis_snippet_icon_business" t-thumbnail="/sh_icon_snippet/static/src/img/blocks/3.svg" />
+
+                    <t t-snippet="sh_icon_snippet.sh_sis_slider_icon" t-thumbnail="/sh_icon_snippet/static/src/img/blocks/4.svg" />
+                </div>
+            </div>
+        </xpath>
+    </template>
+</odoo>

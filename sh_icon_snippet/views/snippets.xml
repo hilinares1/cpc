@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- SNIPPET ICON 3 -->
+    <template id="sh_sis_icon_snippet_3" name="Three Block">
+        <section id="sh_icon_snippet_3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item1 hvr-bob">
+                            <span class="fa fa-heart-o"></span>
+                            <h2>Lorem Ipsum</h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more<span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item1 hvr-bob">
+                            <span class="fa fa-users"></span>
+                            <h2>Lorem Ipsum</h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more<span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item1 hvr-bob">
+                            <span class="fa fa-rocket"></span>
+                            <h2>Lorem Ipsum</h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more<span class="fa fa-arrow-right"></span> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+
+    <!-- SNIPPET ICON 4 -->
+    <template id="sh_sis_icon_snippet_4" name="Four Block">
+        <section id="sh_icon_snippet_4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item hvr-bob">
+                            <span class="fa fa-paint-brush item-icon"></span>
+                            <h4>Lorem Ipsum</h4>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more <span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item hvr-bob">
+                            <span class="fa fa-television item-icon"></span>
+                            <h4>Lorem Ipsum</h4>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more <span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item hvr-bob">
+                            <span class="fa fa-smile-o item-icon"></span>
+                            <h4>Lorem Ipsum</h4>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more <span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item hvr-bob">
+                            <span class="fa fa-rocket item-icon"></span>
+                            <h4>Lorem Ipsum</h4>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                            <a href="#" class="icon_link">read more <span class="fa fa-arrow-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+
+    <!-- SNIPPET ICON AND IMG  -->
+    <template id="sh_sis_snippet_icon_and_img" name="Block + Image + Block">
+        <section id="snippet_icon_and_img">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="icon_text">
+                            <span class="fa fa-heart-o"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+
+                        <div class="icon_text">
+                            <span class="fa fa-users"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+                        <div class="icon_text">
+                            <span class="fa fa-rocket"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="sh_img">
+                            <img src="/sh_icon_snippet/static/src/img/m1.png" />
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="icon_text_right">
+                            <span class="fa fa-paint-brush"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+                        <div class="icon_text_right">
+                            <span class="fa fa-television"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+                        <div class="icon_text_right">
+                            <span class="fa fa-smile-o"></span>
+                            <div class="title">Lorem Ipsum</div>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+
+    <template id="sh_sis_snippet_icon_business" name="Block + Image">
+        <section id="snippet_icon_business">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="title">
+                            <h2>Lorem Ipsum Lorem Ipsum Lorem Ipsum</h2>
+                            <p>Lorem Ipsum is simply dummy text.</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-users"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-smile-o"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-rocket"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-heart-o"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-television"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 sh_sh_icon_snippet_animation_part">
+                                <div class="icon">
+                                    <span class="fa fa-paint-brush"></span>
+                                    <div class="icon_text">
+                                        <h4>Lorem Ipsum</h4>
+                                        <p>Lorem Ipsum is simply dummy text.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="img">
+                            <img src="/sh_icon_snippet/static/src/img/g1.png" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+
+    <template id="sh_sis_slider_icon" name="Image + Block">
+        <section id="slider_icon">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="item">
+                            <img src="/sh_icon_snippet/static/src/img/b1.png" class="img-responsive" />
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                        <div class="text_icon">
+                            <h1>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</h1>
+                            <p class="title_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                            <p class="sh_text">
+                                <span>Lorem Ipsum is simply dummy text.</span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                            </p>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                                <div class="icon_box">
+                                    <span class="fa fa-users sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                                <div class="icon_box">
+                                    <span class="fa fa-television sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                                <div class="icon_box">
+                                    <span class="fa fa-paint-brush sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-12 col-xs-12 sh_sh_icon_snippet_animation_part">
+                                <div class="icon_box">
+                                    <span class="fa fa-rocket sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                                <div class="icon_box">
+                                    <span class="fa fa-smile-o sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                                <div class="icon_box">
+                                    <span class="fa fa-heart-o sh_icon"></span>
+                                    <span class="sh_title">Lorem Ipsum</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+</odoo>

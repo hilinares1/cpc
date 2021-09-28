@@ -1,0 +1,797 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_content_box_snippet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-22 07:05+0000\n"
+"PO-Revision-Date: 2020-10-22 07:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+msgid "01"
+msgstr "01"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+msgid ""
+"<span class=\"fa fa-code sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-code sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+msgid ""
+"<span class=\"fa fa-cubes sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-cubes sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+msgid ""
+"<span class=\"fa fa-envira sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-envira sh_icon\"/>\n"
+"\t\t\t\t\t\t<span class=\"sh_name\">Lorem ipsum</span>"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_28
+msgid ""
+"Aliquam commodo arPhasellus sed metus at ligula tincidunt condimentum. "
+"Phasellus enim tortor, po suere a suscipit ac, molestie vel quam."
+msgstr ""
+"Aliquam COMMANDO arPhasellus sed metus at ligula tincidunt condimentum."
+"Phasellus enim tortor، po suere a suscipit ac، molestie vel quam."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "Animation"
+msgstr "حيوية"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_7
+msgid ""
+"Ante nascetur gravida a ut massa sociosqu sodales fames inceptos a "
+"parturient arcu nec faucibus vestibulum vulputate montes a. Leo eu sapien "
+"adipiscing ametSed tristique fringilla sapien nibh cursus nullat."
+msgstr ""
+"Ante nascetur gravida a ut massa sociosqu sodales fames inceptos a"
+"parturient arcu nec faucibus vestibulum vulputate montes a. Leo eu sapien"
+"adipiscing ametSed tristique fringilla sapien nibh cursus nullat."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_content_box_snippet
+msgid "Content Box Snippet"
+msgstr "مقتطف مربع المحتوى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_59
+msgid ""
+"Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi"
+" nec elementum vehiculaid fringilla."
+msgstr ""
+"Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum، mi"
+"nec elementum luxiculaid fringilla."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_58
+msgid ""
+"Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum, mi"
+" nec elementum vehiculaid fringilla. Cras sagittis. Vivamus in erat urna "
+"cursus vestibulum. Vestibulum rutrum, mi nec elementum vehiculaid fringilla."
+msgstr ""
+"Cras sagittis. Vivamus in erat urna cursus vestibulum. Vestibulum rutrum، mi"
+"nec elementum الي fringilla. Cras sagittis. Vivamus in erat urna"
+"دهليز cursus. الدهليز rutrum ، mi nec elementum الي fringilla."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "Disable Hover"
+msgstr "تعطيل التحويم"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_23
+msgid "Duis autem vel eum iriure dolor in hendrerit"
+msgstr "Duis autem vel eum iriure dolor in hendrerit"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "Enable Hover"
+msgstr "تفعيل Hover"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_37
+msgid "LOREM IPSUM DOLOR SIT"
+msgstr "LOREM IPSUM DOLOR SIT"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_42
+msgid ""
+"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISI CING ELIT, SED DO EIUS MOD "
+"TEMPOR INCIDIDUNT UT"
+msgstr ""
+"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISI CING ELIT, SED DO EIUS MOD "
+"TEMPOR INCIDIDUNT UT"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_12
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_14
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_17
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_19
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_23
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_25
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_28
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+msgid "Lorem"
+msgstr "Lorem"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_49
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_12
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_2
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_4
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_60
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_7
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_14
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_17
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_19
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_23
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_25
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_28
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_37
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_49
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_52
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_60
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_7
+msgid "Lorem ipsum dolor"
+msgstr "Lorem ipsum dolor"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_4
+msgid "Lorem ipsum dolor sit"
+msgstr "Lorem ipsum dolor sit"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_14
+msgid ""
+"Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt"
+msgstr ""
+"Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_12
+msgid ""
+"Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labor."
+msgstr ""
+"Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labor."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_30
+msgid "Lorem ipsum dolor sit amet, con"
+msgstr "Lorem ipsum dolor sit amet, con"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_43
+msgid ""
+"Lorem ipsum dolor sit amet, con sectetur adipisi cing elit, sed do eius mod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam..."
+msgstr ""
+"Lorem ipsum dolor sit amet, con sectetur adipisi cing elit, sed do eius mod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam..."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor \tincid idunt ut labore et dolore magna aliqua."
+msgstr ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor \tincid idunt ut labore et dolore magna aliqua."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incid idunt ut labore et dolore magna aliqua."
+msgstr ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incid idunt ut labore et dolore magna aliqua."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_38
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut..."
+msgstr ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut..."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_41
+msgid ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut.labore et dolore..."
+msgstr ""
+"Lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut.labore et dolore..."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_4
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo "
+"ligula eget dolor."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_49
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur "
+"pellentesque neque eget diam."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur "
+"pellentesque neque eget diam."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_17
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, "
+"sagittis quis augue et, dictum rhoncus ante."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, "
+"sagittis quis augue et, dictum rhoncus ante."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_17
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, "
+"sagittis quis augue et, dictum rhoncus ante.Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum"
+" rhoncus ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras "
+"diam purus, sagittis quis augue et, dictum rhoncus ante."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras diam purus, "
+"sagittis quis augue et, dictum rhoncus ante.Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Cras diam purus, sagittis quis augue et, dictum"
+" rhoncus ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras "
+"diam purus, sagittis quis augue et, dictum rhoncus ante."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_52
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed"
+" arcu interdum elementum."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed"
+" arcu interdum elementum."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed"
+" arcu interdum elementum. Nullam vel gravida lacus. Ut lacinia dui et tellus"
+" eleifend, non vehicula augue imperdiet."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius risus sed"
+" arcu interdum elementum. Nullam vel gravida lacus. Ut lacinia dui et tellus"
+" eleifend, non vehicula augue imperdiet."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed maximus "
+"velit."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed maximus "
+"velit."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_37
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod "
+"tempor incididunt ut"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisi cing elit, sed do eius mod "
+"tempor incididunt ut"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_2
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo"
+" vitae tempora"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis repellat quo"
+" vitae tempora"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_19
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing. Odit qui minima "
+"praesentium illo \tobcaecati..."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing. Odit qui minima "
+"praesentium illo \tobcaecati..."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "None"
+msgstr "لا شيء"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_7
+msgid ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus, scelerisque ipsum \n"
+"            nec, iaculis justo. Sed at vestibulum purus, sit amet viverra diam nulla ac nisi rhoncus."
+msgstr ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum luctus، scelerisque ipsum \ n"
+"nec ، iaculis justo. Sed at vestibulum purus، sit amet viverra diam nulla ac nisi rhoncus."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_11
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_12
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_14
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_17
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_19
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_2
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_23
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_4
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_58
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_59
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_60
+msgid ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum "
+"luctus, scelerisque ipsum nec, iaculis justo. Sed at vestibulum purus, sit "
+"amet viverra diam nulla ac nisi rhoncus."
+msgstr ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum"
+"luctus، scelerisque ipsum nec، iaculis justo. Sed at vestibulum purus، sit"
+"amet viverra diam nulla ac nisi rhoncus."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_25
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_28
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_37
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_38
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_43
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_48
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_49
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_52
+msgid ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum "
+"luctus, scelerisque ipsum nec,iaculis justo. Sed at vestibulum purus, sit "
+"amet viverra diam nulla ac nisi rhoncus."
+msgstr ""
+"Quisque non erat mi. Etiam congue et augue sed tempus. Aenean sed ipsum"
+"luctus، scelerisque ipsum nec، iaculis justo. Sed at vestibulum purus، sit"
+"amet viverra diam nulla ac nisi rhoncus."
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_48
+msgid "Take a look"
+msgstr "إلق نظرة"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounce"
+msgstr "وثب، ارتداد"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceInDown"
+msgstr "bounceInDown"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceInLeft"
+msgstr "ترتد في اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceInRight"
+msgstr "ترتد"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceInUp"
+msgstr "bounceInUp"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceOut"
+msgstr "ترتد"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceOutDown"
+msgstr "bounceOutDown"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceOutLeft"
+msgstr "bounceOutLeft"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceOutRight"
+msgstr "bounceOutRight"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "bounceOutUp"
+msgstr "bounceOutUp"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_47
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_48
+msgid "by Ipsum"
+msgstr "بواسطة Ipsum"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_51
+msgid "explore"
+msgstr "يكتشف"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeIn"
+msgstr "اختفي"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInDown"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInDownBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInLeft"
+msgstr "تتلاشى في اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInLeftBig"
+msgstr "تتلاشى في اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInRight"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInRightBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInUp"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeInUpBig"
+msgstr "fadeInUpBig"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOut"
+msgstr "تتآكل"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutDown"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutDownBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutLeft"
+msgstr "تتلاشى اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutLeftBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutRight"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutRightBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutUp"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "fadeOutUpBig"
+msgstr "تتلاشى"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "flip"
+msgstr "يواجه"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "flipInX"
+msgstr "flipInX"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "flipInY"
+msgstr "فليبيني"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "flipOutX"
+msgstr "flipOutX"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "flipOutY"
+msgstr "الوجه"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "hinge"
+msgstr "مفصل"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "jackInTheBox"
+msgstr "جاك في الصندوق"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_30
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_35
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_37
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_41
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_42
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_43
+msgid "learn more"
+msgstr "أعرف أكثر"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "lightSpeedIn"
+msgstr "lightSpeedIn"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "lightSpeedOut"
+msgstr "lightSpeedOut"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_35
+msgid "lorem"
+msgstr "lorem"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_31
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_60
+msgid "read more"
+msgstr "قراءة المزيد"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_28
+msgid "read more <span class=\"fa fa-angle-right\"/>"
+msgstr "قراءة المزيد <span class=\"fa fa-angle-right\"/>"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_7
+msgid "read more <span class=\"fa fa-long-arrow-right\"/>"
+msgstr "قراءة المزيد <span class=\"fa fa-long-arrow-right\"/>"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rollIn"
+msgstr "رولين"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rollOut"
+msgstr "يطرح"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateIn"
+msgstr "تناوب في"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateInDownLeft"
+msgstr "rotateInDownLeft"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateInDownRight"
+msgstr "استدارة لليمين"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateInUpLeft"
+msgstr "rotateInUpLeft"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateInUpRight"
+msgstr "rotateInUpRight"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateOut"
+msgstr "استدارة"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateOutDownLeft"
+msgstr "استدارة إلى اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateOutDownRight"
+msgstr "استدارة لليمين"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateOutUpLeft"
+msgstr "rotateOutUpLeft"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "rotateOutUpRight"
+msgstr "rotateOutUpRight"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_12
+msgid "shop now!"
+msgstr "تسوق الآن!"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_19
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_cbs_feature_snippet_38
+msgid "show more"
+msgstr "أظهر المزيد"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideInDown"
+msgstr "انزلاق"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideInLeft"
+msgstr "انزلاق إلى اليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideInRight"
+msgstr "الانزلاق إلى اليمين"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideInUp"
+msgstr "slideInUp"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideOutDown"
+msgstr "الانزلاق"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideOutLeft"
+msgstr "الانزلاق لليسار"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideOutRight"
+msgstr "slideOutRight"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "slideOutUp"
+msgstr "slideOutUp"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "zoomIn"
+msgstr "تكبير"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "zoomInDown"
+msgstr "تكبير / تصغير"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "zoomInLeft"
+msgstr "تكبير / تصغير"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "zoomInRight"
+msgstr "تكبير / تصغير"
+
+#. module: sh_content_box_snippet
+#: model_terms:ir.ui.view,arch_db:sh_content_box_snippet.sh_content_box_snippet_snippet_options
+msgid "zoomInUp"
+msgstr "ZoomInUp"

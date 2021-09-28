@@ -1,0 +1,139 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_icon_snippet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-03 06:44+0000\n"
+"PO-Revision-Date: 2020-11-03 06:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-heart-o sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-heart-o sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-paint-brush sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-paint-brush sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-rocket sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-rocket sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-smile-o sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-smile-o sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-television sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-television sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span class=\"fa fa-users sh_icon\"/>\n"
+"                                <span class=\"sh_title\">Lorem Ipsum</span>"
+msgstr ""
+"<span class=\"fa fa-users sh_icon\"/>\n"
+"                                <span class=\"sh_title\">لوريم إيبسوم</span>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"<span>Lorem Ipsum is simply dummy text.</span> Lorem Ipsum is simply dummy "
+"text of the printing and typesetting industry. Lorem Ipsum has been the "
+"industry's standard dummy text ever since the 1500s"
+msgstr ""
+"<span>لوريم إيبسوم هو ببساطة نص شكلي.</span> لوريم إيبسوم مجرد دمية "
+"نص صناعة الطباعة والتنضيد. كان لوريم إيبسوم هو"
+"النص الوهمي القياسي للصناعة منذ القرن الخامس عشر الميلادي"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet
+msgid "Icon or Image Snippets"
+msgstr "مقتطفات رمز أو صورة"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_3
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_4
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_snippet_icon_and_img
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_snippet_icon_business
+msgid "Lorem Ipsum"
+msgstr "لوريم إيبسوم"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_snippet_icon_business
+msgid "Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+msgstr "لوريم إيبسوم لوريم إيبسوم لوريم إيبسوم"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+msgstr "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_3
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_4
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_snippet_icon_and_img
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+"لوريم إيبسوم هو ببساطة نص شكلي في صناعة الطباعة والتنضيد."
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_slider_icon
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry's standard dummy text ever since the "
+"1500s."
+msgstr ""
+"لوريم إيبسوم هو ببساطة نص شكلي في صناعة الطباعة والتنضيد."
+"كان لوريم إيبسوم هو النص الوهمي القياسي في المجال منذ"
+"1500 ثانية."
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_snippet_icon_business
+msgid "Lorem Ipsum is simply dummy text."
+msgstr "لوريم إيبسوم هو ببساطة نص شكلي."
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_4
+msgid "read more <span class=\"fa fa-arrow-right\"/>"
+msgstr "اقرأ أكثر<span class=\"fa fa-arrow-right\"/>"
+
+#. module: sh_icon_snippet
+#: model_terms:ir.ui.view,arch_db:sh_icon_snippet.sh_sis_icon_snippet_3
+msgid "read more<span class=\"fa fa-arrow-right\"/>"
+msgstr "اقرأ أكثر<span class=\"fa fa-arrow-right\"/>"

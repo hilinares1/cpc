@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="sh_content_box_snippet_snippet_options" inherit_id="website.snippet_options">
+        <xpath expr="//div" position="after">
+            <!-- ANIMATION TYPES | -->
+            <div data-selector=".sh_animation_part">
+                <we-select string="Animation">
+                    <we-button role="menuitem" data-select-class="">None</we-button>
+
+                    <we-button data-select-class="wow bounceIn">bounce</we-button>
+                    <we-button data-select-class="wow bounceInDown">bounceInDown</we-button>
+                    <we-button data-select-class="wow bounceInLeft">bounceInLeft</we-button>
+                    <we-button data-select-class="wow bounceInRight">bounceInRight</we-button>
+                    <we-button data-select-class="wow bounceInUp">bounceInUp</we-button>
+
+                    <we-button data-select-class="wow bounceOut">bounceOut</we-button>
+                    <we-button data-select-class="wow bounceOutDown">bounceOutDown</we-button>
+                    <we-button data-select-class="wow bounceOutLeft">bounceOutLeft</we-button>
+                    <we-button data-select-class="wow bounceOutRight">bounceOutRight</we-button>
+                    <we-button data-select-class="wow bounceOutUp">bounceOutUp</we-button>
+
+                    <we-button data-select-class="wow fadeIn">fadeIn</we-button>
+                    <we-button data-select-class="wow fadeInDown">fadeInDown</we-button>
+                    <we-button data-select-class="wow fadeInDownBig">fadeInDownBig</we-button>
+                    <we-button data-select-class="wow fadeInLeft">fadeInLeft</we-button>
+                    <we-button data-select-class="wow fadeInLeftBig">fadeInLeftBig</we-button>
+                    <we-button data-select-class="wow fadeInRight">fadeInRight</we-button>
+                    <we-button data-select-class="wow fadeInRightBig">fadeInRightBig</we-button>
+                    <we-button data-select-class="wow fadeInUp">fadeInUp</we-button>
+                    <we-button data-select-class="wow fadeInUpBig">fadeInUpBig</we-button>
+
+                    <we-button data-select-class="wow fadeOut">fadeOut</we-button>
+                    <we-button data-select-class="wow fadeOutDown">fadeOutDown</we-button>
+                    <we-button data-select-class="wow fadeOutDownBig">fadeOutDownBig</we-button>
+                    <we-button data-select-class="wow fadeOutLeft">fadeOutLeft</we-button>
+                    <we-button data-select-class="wow fadeOutLeftBig">fadeOutLeftBig</we-button>
+                    <we-button data-select-class="wow fadeOutRight">fadeOutRight</we-button>
+                    <we-button data-select-class="wow fadeOutRightBig">fadeOutRightBig</we-button>
+                    <we-button data-select-class="wow fadeOutUp">fadeOutUp</we-button>
+                    <we-button data-select-class="wow fadeOutUpBig">fadeOutUpBig</we-button>
+
+                    <we-button data-select-class="wow animated flip">flip</we-button>
+                    <we-button data-select-class="wow flipInX">flipInX</we-button>
+                    <we-button data-select-class="wow flipInY">flipInY</we-button>
+                    <we-button data-select-class="wow flipOutX">flipOutX</we-button>
+                    <we-button data-select-class="wow flipOutY">flipOutY</we-button>
+
+                    <we-button data-select-class="wow lightSpeedIn">lightSpeedIn</we-button>
+                    <we-button data-select-class="wow lightSpeedOut">lightSpeedOut</we-button>
+
+                    <we-button data-select-class="wow rotateIn">rotateIn</we-button>
+                    <we-button data-select-class="wow rotateInDownLeft">rotateInDownLeft</we-button>
+                    <we-button data-select-class="wow rotateInDownRight">rotateInDownRight</we-button>
+                    <we-button data-select-class="wow rotateInUpLeft">rotateInUpLeft</we-button>
+                    <we-button data-select-class="wow rotateInUpRight">rotateInUpRight</we-button>
+
+                    <we-button data-select-class="wow rotateOut">rotateOut</we-button>
+                    <we-button data-select-class="wow rotateOutDownLeft">rotateOutDownLeft</we-button>
+                    <we-button data-select-class="wow rotateOutDownRight">rotateOutDownRight</we-button>
+                    <we-button data-select-class="wow rotateOutUpLeft">rotateOutUpLeft</we-button>
+                    <we-button data-select-class="wow rotateOutUpRight">rotateOutUpRight</we-button>
+
+                    <we-button data-select-class="wow slideInUp">slideInUp</we-button>
+                    <we-button data-select-class="wow slideInDown">slideInDown</we-button>
+                    <we-button data-select-class="wow slideInLeft">slideInLeft</we-button>
+                    <we-button data-select-class="wow slideInRight">slideInRight</we-button>
+
+                    <we-button data-select-class="wow slideOutUp">slideOutUp</we-button>
+                    <we-button data-select-class="wow slideOutDown">slideOutDown</we-button>
+                    <we-button data-select-class="wow slideOutLeft">slideOutLeft</we-button>
+                    <we-button data-select-class="wow slideOutRight">slideOutRight</we-button>
+
+                    <we-button data-select-class="wow zoomIn">zoomIn</we-button>
+                    <we-button data-select-class="wow zoomInDown">zoomInDown</we-button>
+                    <we-button data-select-class="wow zoomInLeft">zoomInLeft</we-button>
+                    <we-button data-select-class="wow zoomInRight">zoomInRight</we-button>
+                    <we-button data-select-class="wow zoomInUp">zoomInUp</we-button>
+
+                    <we-button data-select-class="wow hinge">hinge</we-button>
+                    <we-button data-select-class="wow jackInTheBox">jackInTheBox</we-button>
+                    <we-button data-select-class="wow rollIn">rollIn</we-button>
+                    <we-button data-select-class="wow rollOut">rollOut</we-button>
+                </we-select>
+            </div>
+            <!-- ANIMATION TYPES | -->
+
+            <!-- DISABLE HOVER -->
+            <div data-selector="#feature_box_snippet_12 > .container > .row > .sh_disable_hover_part">
+                <we-button-group string="Disable Hover">
+                    <we-button title="Enable Hover" data-select-class="">None</we-button>
+                    <we-button title="Disable Hover" data-select-class="sh_disable_hover_cls"><i class="fa fa-ban" /></we-button>
+                </we-button-group>
+            </div>
+            <!-- DISABLE HOVER -->
+        </xpath>
+    </template>
+</odoo>
