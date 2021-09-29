@@ -13,6 +13,9 @@ class product_template(models.Model):
     """
     _inherit = "product.template"
 
+    upc = fields.Char('UPC')
+    model = fields.Char('Model')
+
     @api.depends("attribute_line_ids", "attribute_line_ids.attribute_id", "attribute_line_ids.value_ids")
     def _compute_attribute_value_to_search_ids(self):
         """
